@@ -1,0 +1,92 @@
+.phone{
+	margin-top: 100px;
+	margin-left: 350px;
+}
+body{
+	background-color: #fafafa;
+}
+.container{
+	margin-top: 20px;
+}
+.right-column{
+	background: #fff;
+	border: 1px solid #e6e6e6;
+	width: 350px;
+	margin: 20px;
+	text-align: center;
+	padding: 40px;
+}
+.info-text{
+	font-weight: 600px;
+	line-height: 20px;
+	font-size: 19px;
+	color: dimgray;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+.button1{
+	width: 340px;
+	height: 40px;
+	left: 750px;
+	top: 625px;
+	background: #03a5e5;
+	font-family: georgia;
+	font-size: 18px;
+	color: white;
+	border-radius: 4px 4px 4px 4px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #03a5e5;
+	cursor: pointer;
+	outline: none;	
+	margin-bottom: 20px; 
+	margin-top: 20px;
+}
+.info{
+	width: 320px;
+	height: 20px;
+	border-radius: 5px 5px 5px 5px;
+	background: white;
+	padding: 10px;
+	font-size: 18px;
+	margin-top: 8px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: gray;
+	background-color: #fafafa;
+}
+.info-text2{
+	text-align: center;
+	font-size: 15px;
+	color: dimgray;
+	line-height: 15px;
+}
+.login{
+	background: #fff;
+	border: 1px solid #e6e6e6;
+	width: 380px;
+	margin: 20px;
+	text-align: center;
+	padding: 25px;
+	font-size: 17px;
+}
+.apps{
+	margin-left: 80px;
+}
+footer{
+	position: relative;
+	height: 110px;
+	width: 100%;
+	background-color: #fafafa;
+	display: inline-block;
+}
+.footer-info{
+	text-align: center;
+	font-size: 15px;
+	padding-left: 27px;
+	padding-top: 30px;
+	text-decoration: none;
+}
+.column{
+	float: left;
+}

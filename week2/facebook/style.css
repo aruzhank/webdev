@@ -1,0 +1,165 @@
+body{
+	background-color: #f2fbfe;
+	height: 750px;	
+}
+.fb-header{
+	width: 100%;
+	height: 90px;
+	position: absolute;
+	background: #3d5b99;
+	top: 0;
+	left: 0;
+	color: white;
+	z-index: 7;
+	font-family: georgia;	
+}
+#img1{
+	left: 150px;
+	height: 50px;
+	width: 100px;
+	top: 10px;
+}
+#email{
+	left: 750px;
+	height: 60px;
+	width: 180px;
+	top: 20px;
+	font-family: georgia;
+	font-size: 12px;
+}
+#password{
+	left: 940px;
+	height: 60px;
+	width: 250px;
+	top: 20px;
+	font-family: georgia;
+	font-size: 12px;
+}
+.submit1{
+	left: 1130px;
+	top: 35px;
+	background: #5b7bc0;
+	color: white;
+	position: absolute;
+	z-index: 20;
+	height: 22px;
+	width: 50px;
+	cursor: pointer;	
+}
+.fb-body{
+	position: absolute;
+	left: 0px;
+	top: 90px;
+	width: 100%;
+	height: 645px;
+}
+#intro1{
+	left: 750px;
+	top: 25px;
+	font-family: georgia;
+	font-size: 35px;
+	font-weight: bold;
+	height: 75px;
+	width: 500px;
+}
+#img2{
+	top: 40px;
+	left: 150px;
+	width: 537px;
+	height: 195px;
+}
+#intro2{
+	left: 750px;
+	top: 80px;
+	font-family: georgia;
+	font-size: 18px;
+	height: 50px;
+	width: 340px;
+}
+#info{
+	top: 120px;
+	left: 750px;
+	font-family: georgia;
+	font-size: 20px;
+	color: #142170;
+	width: 450px;
+	height: 495px;	
+}
+#infobox{
+	width: 200px;
+	height: 40px;
+	border-radius: 5px 5px 5px 5px;
+	background: white;
+	padding: 10px;
+	font-size: 18px;
+	margin-top: 8px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: gray;
+}
+#mailbox{
+	width: 408px;
+	height: 40px;
+	border-radius: 5px 5px 5px 5px;
+	background: white;
+	padding: 10px;
+	font-size: 18px;
+	margin-top: 8px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: gray;
+}
+#date{
+	color: gray !important;
+	font-size: 15px !important;
+	font-weight: bold;
+	margin-bottom: 5px;
+
+}
+#m-f{
+	font-size: 12px;
+	height: 15px;
+	width: 15px;
+}
+.button2{
+	width: 250px;
+	height: 40px;
+	left: 750px;
+	top: 625px;
+	background: green;
+	font-family: georgia;
+	font-size: 18px;
+	color: white;
+	border-radius: 5px 5px 5px 5px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: gray;
+	cursor: pointer;
+	outline: none;	
+}
+#intro3{
+	font-family: georgia;
+	font-size: 12px;
+	color: gray;	
+}
+#intro4{
+	font-family: georgia;
+	font-size: 14px;
+	color: gray;	
+}
+.fb-body-footer{
+	width: 100%;
+	position: absolute;
+	left: 0px;
+	height: 28%;
+	background-color: white;
+	top: 700px;	
+}
+#fb-body-footer-base{
+	width: 900px;
+	font-size: 15px;
+	top: 15px;
+	left: 200px;
+	color: gray;
+	height: 50px;
+}

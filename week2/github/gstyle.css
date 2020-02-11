@@ -1,0 +1,131 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background-color: #262626;
+  	display: flex;
+}
+.header img{
+  	height: 40px;
+  	width: auto;
+  	margin: 20px 20px 20px 45px;
+}
+.header span{
+  	font-size: 18px;
+  	margin: 30px 10px;
+  	color: white;
+}
+.header input{
+  	background-color: #404040;
+  	margin-top: 25px;
+  	margin-left: 400px; 
+  	height: 30px;
+  	width: 200px;
+  	padding-left: 10px;
+  	border-radius: 4px 4px 4px 4px;
+  	font-size: 14px;
+  	text-decoration-color: #b3b3b3;
+  	border: 1px solid #262626;
+}
+.signin{
+	color: white;
+	margin-top: 30px;
+  	margin-left: 20px;
+  	font-size: 17px;
+  	text-decoration: none;
+}
+.signup{
+	color: white;
+	border: 1px solid white;
+	margin-top: 25px;
+	height: 22px;
+	font-size: 17px;
+	margin-left: 20px; 
+	padding: 5px 5px 5px 5px;
+	text-decoration: none;
+	border-radius: 5px 5px 5px 5px;
+}
+.main{
+  	display: flex;
+  	background-color: #333333;
+}	
+.info{
+	width: 320px;
+	height: 20px;
+	border-radius: 5px 5px 5px 5px;
+	background: white;
+	padding: 10px;
+	font-size: 18px;
+	margin-top: 8px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: gray;
+	background-color: #fafafa;
+	display: block;
+}
+.column{
+	background: #fafbfc;
+	border: 1px solid #e6e6e6;
+	width: 350px;
+	margin-top: 20px;
+	margin-right: 150px;
+	padding: 40px;
+	float: right;
+	margin-top: 80px;
+	border-radius: 3px 3px 3px 3px;
+}
+.button{
+	width: 340px;
+	height: 65px;
+	left: 750px;
+	top: 625px;
+	background: #2ebc4f;
+	font-family: georgia;
+	font-size: 18px;
+	color: white;
+	border-radius: 5px 5px 5px 5px;
+	border-width: 1px;
+	border-style: solid;
+	cursor: pointer;
+	outline: none;	
+}
+#conf{
+	font-size: 15px !important;
+	margin: 0px 0px 30px 0px;
+}
+body{
+	background-color: #24292e
+}
+.article{
+	color: white;
+	width: 350px;
+	float: left;
+	margin-top: 150px;
+	margin-left: 200px;
+	font-size: 30px;
+	font-family: sans-serif;
+	width: 38%;
+}
+.button1{
+	background-color: #231f20;
+	border: none;
+	color: white;
+	font-size: 17px;
+	font-family: helvetica; 
+	padding: 5px;
+	float: right;
+	margin-right: 20px;
+}
+.button2{
+	background-color: #231f20;
+	border-width: 1px;
+	border-color: white;
+	border-style: solid;
+	color: white;
+	font-size: 17px;
+	font-family: helvetica;
+	padding: 5px;
+	float: right;
+	margin-right: 20px;
+}
